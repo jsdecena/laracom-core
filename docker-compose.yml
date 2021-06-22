@@ -3,3 +3,4 @@ services:
   app:
     build: .
     image: laracom-core
+    container_name: laracom-core
